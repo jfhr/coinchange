@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coinchange", "coinchange\coinchange.vcxproj", "{9096EC32-26CC-4B6B-96EC-CAD7BF6ECEDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coinchange.Test", "coinchange.Test\coinchange.Test.vcxproj", "{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9096EC32-26CC-4B6B-96EC-CAD7BF6ECEDC}.Release|x64.Build.0 = Release|x64
 		{9096EC32-26CC-4B6B-96EC-CAD7BF6ECEDC}.Release|x86.ActiveCfg = Release|Win32
 		{9096EC32-26CC-4B6B-96EC-CAD7BF6ECEDC}.Release|x86.Build.0 = Release|Win32
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Debug|x64.ActiveCfg = Debug|x64
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Debug|x64.Build.0 = Debug|x64
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Debug|x86.Build.0 = Debug|Win32
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Release|x64.ActiveCfg = Release|x64
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Release|x64.Build.0 = Release|x64
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Release|x86.ActiveCfg = Release|Win32
+		{E9017C9D-CCB4-4C61-B4BE-7F1827C0B3DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
